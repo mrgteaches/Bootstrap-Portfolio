@@ -1,0 +1,150 @@
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+#name {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 20px 10px 20px 10px;
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 200px;
+    margin: 20px 20px 0px 20px;
+}
+
+#navbarNav {
+
+    padding: 15px;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    border: 1px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #777777;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.container-fluid {
+    background-image: url("../Assets/crossline-lines/crossline-lines.png");
+    height: 590px;
+    position: relative;
+}
+
+#container1 {
+    height: 530px;
+}
+
+#jumbotron {
+    background-color: white;
+    position: absolute;
+    top: 30px;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+#portfoliocontainer {
+    background-image: url("../Assets/crossline-lines/crossline-lines.png");
+    height: 1200px;
+    position: relative;
+}
+
+#contactbutton {
+    background-color: #4aaaa5;
+}
+
+#footer1 {
+    background-color: #666666;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    padding: 30px 30px 10px 30px;
+    border-top: 5px solid #4aaaa5;
+}
+
+#footer2 {
+    background-color: #666666;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    padding: 30px 30px 10px 30px;
+    border-top: 5px solid #4aaaa5;
+    margin-top: 30px;
+}
+
+#footer3 {
+    background-color: #666666;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    padding: 30px 30px 10px 30px;
+    border-top: 5px solid #4aaaa5;
+}
+
+#hangman {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    height: 50px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+#rpggame {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    height: 50px;
+    width: 250px;
+}
+
+#triviagame {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    height: 50px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+#rutgersinfowidget {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    height: 50px;
+    width: 250px;
+}
+
+#rps {
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    height: 50px;
+    width: 250px;
+}
+
+
